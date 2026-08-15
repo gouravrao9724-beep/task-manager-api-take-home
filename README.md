@@ -2,6 +2,19 @@
 
 A small Express Task Manager API with unit tests, integration tests, bug fixes, and task assignment functionality.
 
+## Live Demo
+
+https://task-manager-api-q5j0.onrender.com
+
+## Test Results
+
+- Test Suites: 2 passed
+- Tests: 32 passed
+- Statement Coverage: 92.45%
+- Branch Coverage: 84.37%
+- Function Coverage: 93.33%
+- Line Coverage: 91.72%
+
 ## Stack
 
 - Node.js
